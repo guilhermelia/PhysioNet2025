@@ -2,9 +2,9 @@
 
 ## Team members
 
-Atila ✅ Especialista em classificação de sinais de ECG, notadamente Fração de Ejeção
-Sara ✅- Especialista em  detecção de anomalias - Experiência com ECGs de pacientes com Doença de Chagas
-Wesley ✅- Especialista em Biossinais com larga experiência em Machine Learning
+Atila ✅ Especialista em classificação de sinais de ECG, notadamente Fração de Ejeção\n
+Sara ✅- Especialista em  detecção de anomalias - Experiência com ECGs de pacientes com Doença de Chagas\n
+Wesley ✅- Especialista em Biossinais com larga experiência em Machine Learning\n
 Adriane ✅ - ?
 Leo ✅ - Pesquisador na área de biossinais, com experiência na base do Challenge (Code-Full). Possui trabalhos relacionados à Classifição de Insuficiente Cardíaca
 Kelvin ✅- ?
