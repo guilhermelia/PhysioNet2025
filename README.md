@@ -4,17 +4,24 @@
 
 Atila ✅ Especialista em classificação de sinais de ECG, notadamente Fração de Ejeção
 
-Sara ✅- Especialista em  detecção de anomalias - Experiência com ECGs de pacientes com Doença de Chagas\n
+Sara ✅- Especialista em  detecção de anomalias - Experiência com ECGs de pacientes com Doença de Chagas
 
-Wesley ✅- Especialista em Biossinais com larga experiência em Machine Learning\n
+Wesley ✅- Especialista em Biossinais com larga experiência em Machine Learning
 
 Adriane ✅ - ?
+
 Leo ✅ - Pesquisador na área de biossinais, com experiência na base do Challenge (Code-Full). Possui trabalhos relacionados à Classifição de Insuficiente Cardíaca
+
 Kelvin ✅- ?
+
 Prof. Luis ✅ - Orientador Especialista em Séries temporais com larga experiência em Machine Learning/Deep Learning, notadamente no uso de GNNs. 
+
 Daniel Pordeus ✅ - ?
+
 Joao Paulo ✅ - Orientador Especialista em Biossinais, com larga experiência em Processamento de Sinais Digitais e Sinais de ECG em geral, notadamente de paciente Chagásticos 
+
 Esperança Daniela Ferreira ✅ - Pesquisadora da área da Biologia
+
 Guilherme Santos ✅ - Pesquisador de Biossinais, com experiência em classificação de sinais de EEG, e aplicação de filtros em sinal de ECG.
 
 ## What's in this repository?
