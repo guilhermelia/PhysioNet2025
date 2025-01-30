@@ -1,4 +1,4 @@
-# Python code for the George B. Moody PhysioNet Challenge 2025
+# Logia_DC_UFC Team - Python code for the George B. Moody PhysioNet Challenge 2025
 
 ## Team members
 
